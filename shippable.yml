@@ -12,5 +12,5 @@ services:
 notifications:
      email:
          recipients:
-             - exampleone@org.com
-             - exampletwo@org.com
+             - vidya@shippable.com
+             - buildsampletest@gmail.com
