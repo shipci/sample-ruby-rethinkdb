@@ -14,3 +14,5 @@ notifications:
          recipients:
              - vidya@shippable.com
              - buildsampletest@gmail.com
+after_script:
+  - cp README.md ./shippable
