@@ -1,6 +1,4 @@
 language: ruby
-
-
 rvm:
   - 1.9.3
 env:
@@ -8,6 +6,7 @@ env:
 
 before_script:
   - ruby initialize.rb
+
 services:
   - rethinkdb
 
